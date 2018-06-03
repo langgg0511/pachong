@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#爬取LOL英雄皮肤
 from selenium import webdriver
 import time
 from bs4 import BeautifulSoup
